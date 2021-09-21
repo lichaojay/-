@@ -1,0 +1,15 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "0171E8EC-10",
+    "build_number": 10,
+    "build_time": 1629483175733
+  },
+  "useFeatures": [],
+  "main": "main.js",
+  "name": "游戏脚本",
+  "packageName": "com.youxi.cn",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
